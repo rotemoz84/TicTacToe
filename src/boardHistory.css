@@ -1,0 +1,18 @@
+.historyButton {
+  background: #768df0;
+  border-radius: 7px;
+  height: 20px;
+  width: 130px;
+  cursor: pointer;
+}
+.historyButton:hover {background-color: rgb(101, 194, 40)}
+
+.historyButtonClicked {
+  background: rgb(101, 194, 40);
+  border-radius: 7px;
+  height: 20px;
+  width: 130px;
+  cursor: pointer;
+}
+
+Button:focus {outline:0;}
